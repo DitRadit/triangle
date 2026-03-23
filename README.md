@@ -105,13 +105,6 @@ else
 
 ---
 
-## ⚠️ Catatan
-
-- Tidak ada validasi sisi (misalnya sisi negatif atau tidak memenuhi aturan segitiga)
-- Fokus hanya pada **perbandingan nilai input**
-
----
-
 # 📂 2. triangle2.php
 
 ## 📥 Input
